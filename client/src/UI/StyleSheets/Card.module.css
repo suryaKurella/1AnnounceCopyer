@@ -1,0 +1,70 @@
+html {
+    overflow: scroll;
+    /*overflow: hidden;*/
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+.overflow-hidden{
+    overflow:hidden
+}
+
+.cardFrontPage {
+    /*border-radius: 0.5rem;*/
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    /*padding-bottom: 30px;*/
+    /*padding-top: 30px;*/
+    /*margin:20px;*/
+    /*background-image: url('D:/Surya/Software LEarning/login/src/UI/images/redballons.jpg')*/
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    /*background-image: url('https://i.imgur.com/v1d9Pa3.gif');*/
+    /*background-image: url('https://i.imgur.com/WXHSvRD.gif');*/
+    /*background-image: url('https://i.imgur.com/gdYq73F.gif');*/
+    /*background-image: url('https://media1.giphy.com/media/uUIaZa1A8bUvWQhttps://im7.ezgif.com/tmp/ezgif-7-f63f1e634635.gifLnQ8/giphy.gif?cid=ecf05e47qbkk8sxk82lqzpvx1i4urozuj5c375gjxgrjpaqp&rid=giphy.gif&ct=g');*/
+    /*background-image: url('https://media1.giphy.com/media/lSzQjkthGS1gc/giphy.webp?cid=ecf05e473kfqxcmwl5bvm6q5rkh5c9pzi5coe7xe80dc5p51&rid=giphy.webp&ct=g');*/
+    /*background-image: url('https://im7.ezgif.com/tmp/ezgif-7-b6063921873a.gif');*/
+    /*background-image: url('https://im7.ezgif.com/tmp/ezgif-7-db6fc1be3864.gif');*/
+    /*background-image: url('https://media1.giphy.com/media/PjD8LXsw2wMyiWQn5i/200w.webp?cid=ecf05e47xpnnh7dlnl8721w4ga82ndy1xn8uk6n7ybct9x2y&rid=200w.webp&ct=g');*/
+    /*background-image:url('black.jpg');*/
+    /*background-size: cover;*/
+    /*height:100vh;*/
+
+    /*background:black;*/
+}
+.cardAppBar {
+    /*border-radius: 0.5rem;*/
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    /*padding-bottom: 30px;*/
+    /*padding-top: 30px;*/
+    /*margin:20px;*/
+    /*background-image: url('D:/Surya/Software LEarning/login/src/UI/images/redballons.jpg')*/
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    /*background-image: url('https://i.imgur.com/v1d9Pa3.gif');*/
+    /*background-image: url('https://i.imgur.com/WXHSvRD.gif');*/
+    /*background-image: url('https://i.imgur.com/gdYq73F.gif');*/
+    /*background-image: url('https://media1.giphy.com/media/uUIaZa1A8bUvWQhttps://im7.ezgif.com/tmp/ezgif-7-f63f1e634635.gifLnQ8/giphy.gif?cid=ecf05e47qbkk8sxk82lqzpvx1i4urozuj5c375gjxgrjpaqp&rid=giphy.gif&ct=g');*/
+    /*background-image: url('https://media1.giphy.com/media/lSzQjkthGS1gc/giphy.webp?cid=ecf05e473kfqxcmwl5bvm6q5rkh5c9pzi5coe7xe80dc5p51&rid=giphy.webp&ct=g');*/
+    /*background-image: url('https://im7.ezgif.com/tmp/ezgif-7-b6063921873a.gif');*/
+    /*background-image: url('https://im7.ezgif.com/tmp/ezgif-7-db6fc1be3864.gif');*/
+    /*background-image: url('https://media1.giphy.com/media/PjD8LXsw2wMyiWQn5i/200w.webp?cid=ecf05e47xpnnh7dlnl8721w4ga82ndy1xn8uk6n7ybct9x2y&rid=200w.webp&ct=g');*/
+    /*background-image:url('black.jpg');*/
+    /*background-size: cover;*/
+    /*background:black;*/
+}
+.card {
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin:20px;
+    /*background-image: url('D:/Surya/Software LEarning/login/src/UI/images/redballons.jpg')*/
+    /*background-image: url('http://i.stack.imgur.com/kx8MT.gif');*/
+    /*background-image: url('https://i.imgur.com/v1d9Pa3.gif');*/
+    /*background-image: url('https://i.imgur.com/WXHSvRD.gif');*/
+}

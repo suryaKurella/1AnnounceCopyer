@@ -1,0 +1,43 @@
+.announcePageImage{
+
+    left:3rem;
+
+    position: relative;
+    background-image: url('../../UI/images/announcePage.png');
+    height: 80vh;
+    /*height: 80%;*/
+    width: 100%;
+    background-size: cover;
+    border-radius: 1rem !important;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.25) !important;
+    padding-bottom: 20px;
+    padding-top: 200px;
+    margin:20px;
+}
+.frontPageImage{
+    /*left:3rem;*/
+
+    position: relative;
+    /*background-image: url('../../UI/images/female announcement.jpg');*/
+    background-image: url('../../UI/images/white-image.jpg');
+    height: 80vh;
+    /*height: 80%;*/
+    width: 100vw;
+    background-size: cover;
+    /*border-radius: 1rem !important;*/
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.25) !important;
+    padding-bottom: 20px;
+    padding-top: 200px;
+    margin:20px;
+    border:None;
+}
+.card-announce{
+
+    /*background-image: url('https://thumbs.gfycat.com/AmazingAdolescentAfricanfisheagle-size_restricted.gif');*/
+    border-radius: 1rem !important;
+    box-shadow: 40px 35px 35px 35px rgba(0, 0, 0, 0.35) !important;
+    padding-bottom: 20px;
+    padding-top: 1rem;
+    /*margin:20px;*/
+    background-size: cover;
+}

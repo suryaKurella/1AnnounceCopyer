@@ -1,0 +1,32 @@
+.opacity-5{
+    opacity:1 !important;
+}
+
+
+
+.zoom {
+    /*width: 100%;*/
+    transition: 0.5s all ease-in-out;
+
+
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+    /*background-color:pink;*/
+    color:white
+}
+
+.logo {
+    /*width: 100%;*/
+    transition: 0.5s all ease-in-out;
+
+
+}
+
+.logo:hover {
+    /*background-color:pink;*/
+    color:white;
+    cursor: pointer;
+}
+

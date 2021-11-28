@@ -1,0 +1,48 @@
+.boomer:focus, .boomer.active {
+    outline: none;
+    box-shadow: none;
+    /*border-bottom: 30rem #58ff00 !important;*/
+
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.image2 {
+    position: absolute;
+    /*top: 30px;*/
+    /*left: 30rem;*/
+    right: 5%;
+    /*border: 1px green solid;*/
+    max-width: 100%;
+    height: auto;
+}
+.announcement {
+    height: 100vh;
+    width: 100%;
+    background-image: url('../images/female announcement.jpg');
+    background-size: cover;
+
+}
+
+
+
+.vertical-full {
+    height: 100%;
+}
+
+.gap-padding {
+    padding-right: 0;
+    padding-left: 0;
+
+}
+
+.signup-btn{
+    margin-left:10rem;
+    margin-right:10rem;
+    margin-top:2rem;
+}

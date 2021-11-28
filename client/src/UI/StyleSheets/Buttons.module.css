@@ -1,0 +1,6 @@
+.submitBtn:focus, .submitBtn:active, .submitBtn:hover, .submitBtn{
+    outline:none !important;
+    box-shadow: none;
+    border:none !important;
+
+}
